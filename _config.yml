@@ -1,4 +1,4 @@
-name: Your New Jekyll Site
-markdown: redcarpet
+name: Zhu Lida
+markdown: rdiscount
 pygments: true
 baseurl: /blog
